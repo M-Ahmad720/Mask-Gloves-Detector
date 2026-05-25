@@ -1,0 +1,5 @@
+train: C:\Users\m-ahmad\Desktop\mask_gloves_detector\datasets\gloves_dataset\train\images
+val: C:\Users\m-ahmad\Desktop\mask_gloves_detector\datasets\gloves_dataset\valid\images
+
+nc: 2
+names: ['with_gloves', 'without_gloves']
